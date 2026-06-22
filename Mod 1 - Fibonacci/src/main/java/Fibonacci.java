@@ -20,7 +20,7 @@ public class Fibonacci {
 
         int answer = fibonacci(term);
 
-        System.out.println("Modified code and rebuilt: The " + term
+        System.out.println("Modified code for Jenkins and rebuilt: The " + term
                 + "th term of the Fibonacci sequence is "
                 + answer + ".");
     }
