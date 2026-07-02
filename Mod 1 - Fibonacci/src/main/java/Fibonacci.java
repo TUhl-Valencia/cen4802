@@ -20,7 +20,7 @@ public class Fibonacci {
 
         int answer = fibonacci(term);
 
-        System.out.println("Docker Build Update: The " + term
+        System.out.println("Midterm Proofing Update: The " + term
                 + "th term of the Fibonacci sequence is "
                 + answer + ".");
     }
